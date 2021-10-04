@@ -25,6 +25,7 @@ There are requirements to successfully deliver this workshop.
 
 - Access to an Azure Subscription
 - Owner or Contributor rights to a resource group
+- An Azure Storage account
 - Access to an administrator if issues arise
 - Access to a Power BI workspace
 
@@ -32,24 +33,45 @@ There are requirements to successfully deliver this workshop.
 
 [Create a Synapse Workspace](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-create-workspace)
 
+Module questions:
+- What is the Data module used for?
+- What is the Develop module used for?
+- What is the Integrate module used for?
+
 [Analyze data with a serverless SQL pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-sql-on-demand)
+
+Module Questions:
+- What does OPENROWSET function do?
+- What do you think the benefit is of accessing the data in the data lake rather than a traditional database?
 
 [Analyze with Apache Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-spark)
 
+Module Questions:
+- What languages are supported in Synapse Spark pools?
+- What is a data frame?
+
 [Analyze data with dedicated SQL pools](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-sql-pool)
+
+Module Questions:
+- How is a Dedicated pool different from a Serverless pool?
+- What is a DWU?
+- What is PolyBase?
 
 [Analyze data in a storage account](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-storage)
 
+Module Questions:
+- What is ABFS? WASB?
+- What is Parquet?
+
 [Integrate with pipelines](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-pipelines)
+
+Module Questions:
+- What is ETL? ELT?
+- How does this compare to orchestration?
 
 [Visualize data with Power BI](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-visualize-power-bi)
 
+Module Questions:
+- Which is more performant: to load data to a Power BI report from Synapse Dedicated or Synapse Serverless?
 
 
-## Challenges
-
-### Challenge 1
-
-### Challenge 2
-
-### Challenge 3
