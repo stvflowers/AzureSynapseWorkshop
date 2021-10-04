@@ -41,7 +41,7 @@ Module questions:
 [Module 2 - Analyze data with a serverless SQL pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-sql-on-demand)
 
 Module Questions:
-- What does OPENROWSET function do?
+- What does the OPENROWSET function do?
 - What do you think the benefit is of accessing the data in the data lake rather than a traditional database?
 
 [Module 3 - Analyze with Apache Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-spark)
