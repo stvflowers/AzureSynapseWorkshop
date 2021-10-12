@@ -24,7 +24,7 @@ Open discussion | 30 min | This is reserved for Question and Answer. However, if
 There are requirements to successfully deliver this workshop.
 
 - Access to an Azure Subscription
-- Owner or Contributor rights to a resource group
+- Owner rights to a resource group
 - An Azure Storage account
 - Access to an administrator if issues arise
 - Access to a Power BI workspace
