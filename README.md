@@ -17,8 +17,7 @@ Hands on: Analyze using Dedicated SQL pools | 15 min | Create a dedicated SQL po
 Hands on: Analyze data in a storage account | 15 min | This module is focused on interacting with files in ADLS.
 Hands on: Integrate with pipelines and Power BI | 15 min | Introduction to the orchestration features of Synapse Pipelines
 Challenges | 15 min | 3 tasks to complete to show and understanding of Synapse.
-Open discussion | 30 min | This is reserved for Question and Answer. However, if the audience has experience with Synapse or big data analytics it would be best to get a list of questions the team may have in advance. This time can be used to tackle specific questions such as when to choose Synapse Spark or Databricks.
-
+Open discussion | 30 min | This is reserved for Q&A or deep dive on specific topics.
 ## Requirements
 
 There are requirements to successfully deliver this workshop.
